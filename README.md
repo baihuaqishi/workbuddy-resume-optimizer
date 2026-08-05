@@ -1,4 +1,8 @@
-# resume-optimizer · 简历定向优化 Skill
+<div align="center">
+
+# 🎯 面向职位简历优化
+
+### workbuddy-resume-optimizer · 简历定向优化 Skill
 
 针对**具体招聘 JD（职位描述）**定向微调简历的 [WorkBuddy](https://www.codebuddy.cn) Skill。
 核心方法论、模板、Python 脚本**与平台无关**，也可被 Codex / 豆包 / Claude 等任意 agent 复用，
