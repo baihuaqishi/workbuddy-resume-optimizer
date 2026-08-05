@@ -1,0 +1,6 @@
+# resume-optimizer 运行依赖（纯 Python，跨平台，无 WorkBuddy 绑定）
+reportlab>=4.0        # 简历/说明 Markdown -> PDF 渲染
+python-docx>=1.0      # 提取 .docx 简历文本
+pypdf>=4.0            # 提取 .pdf 简历文本
+markdown>=3.5         # （可选）Markdown 解析辅助
+# pymupdf>=1.23     # 仅做"PDF 截图预览/逐页转图"测试时需要，非必需
